@@ -1,4 +1,12 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
+</div>
+
+---
+
 # Hey, I'm Javier 👋
+
+> *"I don't just write code — I build experiences that people actually enjoy using."*
 
 Fullstack Developer apasionado por construir productos web modernos y rápidos.
 Me gusta combinar buen diseño, código limpio y herramientas de IA para crear soluciones que realmente funcionen.
